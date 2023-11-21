@@ -38,7 +38,7 @@ To access and navigate the website, simply visit [https://syedraiyanportfolio.ne
 
 If you have any questions or would like to get in touch with Syed Raiyan, you can reach out via:
 
-- Email: [syed.raiyan@example.com](mailto:syed.raiyan@example.com)
+- Email: [syed.raiyan@example.com](mailto:raiyanullah0@example.com)
 - LinkedIn: [Syed Raiyan](https://www.linkedin.com/in/syedraiyan)
 - Twitter: [@syedraiyan](https://twitter.com/syedraiyan)
 

@@ -1,10 +1,10 @@
 # Syed Raiyan's Portfolio
 
-Welcome to Syed Raiyan's portfolio website! This repository showcases Syed Raiyan's work, skills, and experiences.
+Welcome to Syed Raiyan's portfolio website! This repository showcases my work, skills, and experiences.
 
 ## About
 
-This portfolio website provides an overview of Syed Raiyan's professional profile, including:
+This portfolio website provides an overview of my professional profile, including:
 visit [site](https://syedraiyanportfolio.netlify.app/) 
 - Background and education
 - Work experience and projects
@@ -32,7 +32,7 @@ The website is built using the following technologies:
 
 ## How to Use
 
-To access and navigate the website, simply visit [https://syedraiyanportfolio.netlify.app/](https://syedraiyanportfolio.netlify.app/) using a web browser. From there, you can explore the different sections and learn more about Syed Raiyan's portfolio.
+To access and navigate the website, simply visit [https://syedraiyanportfolio.netlify.app/](https://syedraiyanportfolio.netlify.app/) using a web browser. From there, you can explore the different sections and learn more about my portfolio.
 
 ## Contact Information
 
@@ -40,5 +40,4 @@ If you have any questions or would like to get in touch with Syed Raiyan, you ca
 
 - Email: [syed.raiyan@example.com](mailto:raiyanullah0@example.com)
 - LinkedIn: [Syed Raiyan](https://www.linkedin.com/in/syedraiyan)
-- Twitter: [@syedraiyan](https://twitter.com/syedraiyan)
 

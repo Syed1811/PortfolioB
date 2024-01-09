@@ -15,12 +15,12 @@ visit [site](https://syedraiyanportfolio.netlify.app/)
 
 The website offers the following features:
 
-- **Home**: An introduction to Syed Raiyan and his portfolio.
-- **Projects**: Highlights of the projects Syed Raiyan has worked on.
-- **Skills**: A comprehensive list of skills and technologies Syed Raiyan is proficient in.
-- **Experience**: Details about Syed Raiyan's professional experience.
-- **Education**: Information about Syed Raiyan's educational background.
-- **Contact**: Ways to get in touch with Syed Raiyan for collaboration or inquiries.
+- **Home**: An introduction to me and my portfolio.
+- **Projects**: Highlights of the projects worked on.
+- **Skills**: A comprehensive list of skills and technologies i am  proficient in.
+- **Experience**: Details about my professional experience.
+- **Education**: Information about my educational background.
+- **Contact**: Ways to get in touch with me for collaboration or inquiries.
 
 ## Technologies Used
 
